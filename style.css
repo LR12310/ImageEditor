@@ -1,0 +1,46 @@
+#images {
+  width: 2000px;
+;
+}
+#image, #originalImage {
+display: inline-block;
+float: left;
+    
+}
+div {
+  display: inline;
+}
+#inputs {
+  display: inline;
+  float: left;
+  margin-left: 100px;
+}
+body {
+  width: 100%;
+  font-family: 'Hind', sans-serif;
+  background-color: #CAD2C5;
+  color: #1F5673;
+  font-size: 18px;
+  margin-left: 30px;
+  
+}
+#mainBody {
+ 
+  border-radius: 100px;
+}
+input {
+  width: 200%;
+}
+#searcher {
+  background-color: #1F5673; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 200px;
+}
+
+
